@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swaroop Krishna Nadella
+- 👋 Hi, I’m Swaroop Nadella
 - 👀 I’m interested in Test Automation
 - 🌱 I’m currently learning Playwright
 - 💞️ I’m looking to collaborate on Test Automation, Software Testing
